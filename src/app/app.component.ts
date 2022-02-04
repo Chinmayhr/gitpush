@@ -12,4 +12,7 @@ export class AppComponent {
     console.log("Added Constructor after making public!!!")
   }
 
+  numberPrinter(){
+    return 2;
+  }
 }
