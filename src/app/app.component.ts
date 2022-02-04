@@ -9,7 +9,7 @@ export class AppComponent {
   title = 'gitpush';
 
   constructor(){
-    console.log("Added Constructor!!!")
+    console.log("Added Constructor after making public!!!")
   }
 
 }
