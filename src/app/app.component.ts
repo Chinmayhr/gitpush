@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'gitpush';
+
+  numberPrinter(){
+    return 2;
+  }
 }
